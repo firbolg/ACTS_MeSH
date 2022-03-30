@@ -26,3 +26,4 @@ fig.update_layout(
 fig.show()
 
 
+#https://community.plotly.com/t/different-colors-for-bars-in-barchart-by-their-value/6527/7
